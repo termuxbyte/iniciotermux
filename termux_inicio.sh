@@ -506,13 +506,6 @@ menu_principal
 ;;
 
 
-
-
-;;
-
-
-
-
 $d)
 echo -e "$purple(*)$blue Cerrando.. Termux-Byte$nc"
 sleep 2
